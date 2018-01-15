@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+
+    <title>mdark1001</title>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/font-mfizz.css" />
+
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <link rel="stylesheet" href="dist/flexboxgrid.css">
+    <link rel="stylesheet" href="assets/css/master.css">
+  </head>
+
+
+  <body class="">
+    <div class="container is-loading">
+    <div class="row wrapper">
+        <div class="col-xs-12  col-sm-12 col-md-6 col-lg-4">
+
+              <section id="info">
+                <header>
+                  <span class="avatar">
+                    <img src="images/profile.jpg"
+
+                     alt="" />
+                  </span>
+                  <h1>Miguel Cabrera Ramírez</h1>
+                  <p>
+                    Programador FullStack
+                  </p>
+                </header>
+
+                <footer>
+                  <ul class="icons">
+                    <li><i class="fa fa-code" aria-hidden="true"></i></li>
+                    <li><a href="#" class="">Express</a></li>
+                    <li><a href="#" class="icon-angular">Angular</a></li>
+                    <li> <a><i class="icon-nodejs"></i> icon-nodejs</a></li>
+                  </ul>
+                </footer>
+              </section>
+
+        </div>
+    </div>
+    </div>
+  </body>
+  <script>
+    if ('addEventListener' in window) {
+      window.addEventListener('load', function() {
+        document.body.className = document.body.className.replace(/\bis-loading\b/, '');
+      });
+      document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+    }
+  </script>
+</html>
