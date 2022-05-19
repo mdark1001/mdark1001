@@ -1,4 +1,3 @@
 # Hello There! 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdark1001)](https://github.com/mdark1001/github-readme-stats)
+Hey! I'm Miguel. I'm a python develeper and an enthusiastic data engineer. Currently I'm learning MongoDb for Big data propuse.
