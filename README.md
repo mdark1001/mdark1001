@@ -6,7 +6,7 @@ Hey! I'm Miguel.
 - 🔭 I’m working with Python  and Postgresql :blue_heart:
 - 🌱 I’m currently learning about Big data and Machine learning.  
 - :chart_with_upwards_trend: I'm studying a master degree about :point_up:
-- 🤔 I’m interesting for analytics and data science.  
+- 🤔 I’m interesting in analytics and data science.  
 - 💬 Ask me about food and technologies 
 - 📫 How to reach me: [@app_cabrera](https://twitter.com/app_cabrera)
 
