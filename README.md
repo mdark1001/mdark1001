@@ -2,7 +2,7 @@
 
 Hey! I'm Miguel.
 
--🔭 I’m software engineer. 
+- 🔭 I’m software engineer. 
 - 🔭 I’m working with Python  and Postgresql :blue_heart:
 - 🌱 I’m currently learning about Big data and Machine learning.  
 - :chart_with_upwards_trend: I'm studying a master degree about :point_up:
