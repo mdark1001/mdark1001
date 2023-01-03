@@ -2,10 +2,11 @@
 
 Hey! I'm Miguel.
 
-- 🔭 I’m currently working with Python  and Postgresql :blue_heart:
-- 🌱 I’m currently learning about Big data.  
-- :chart_with_upwards_trend: I'm currently studyng a master degree
-- 🤔 I’m looking for help with ...
+-🔭 I’m software engineer. 
+- 🔭 I’m working with Python  and Postgresql :blue_heart:
+- 🌱 I’m currently learning about Big data and Machine learning.  
+- :chart_with_upwards_trend: I'm studying a master degree about :point_up:
+- 🤔 I’m interesting for analytics and data science.  
 - 💬 Ask me about food and technologies 
 - 📫 How to reach me: [@app_cabrera](https://twitter.com/app_cabrera)
 
